@@ -12,6 +12,8 @@ How negative-example construction (Recipe C: pair-preserving block shuffle vs Re
 - configs: config.yaml (paths, seeds, thresholds)
 - docs: decision rules and notes
 - tests: unit tests
+- scripts: data checks and split building
+- splits: tracked split assignment (no sequences)
 
 ## Folder ownership
 - recipes/ (Recipe C): TBD

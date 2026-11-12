@@ -5,8 +5,8 @@ project:
 paths:
   data_raw: data/raw
   data_processed: data/processed
-  hg38_fasta: null
-  epdnew_promoters: null
+  hg38_fasta: data/raw/hg38.fa
+  epdnew_promoters: data/raw/epdnew/Hs_EPDnew_006_hg38.bed
   hadad_split: null
 
 windows:
